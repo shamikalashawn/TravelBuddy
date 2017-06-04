@@ -1,0 +1,17 @@
+/* main styling */
+#register, #login{
+  display: inline-block;
+  width: 40%;
+  border: 1px solid black;
+}
+#login{
+  vertical-align: top;
+}
+button{
+  display: block;
+}
+
+/* error styling */
+.error{
+  color: red;
+}
